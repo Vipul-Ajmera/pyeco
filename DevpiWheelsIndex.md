@@ -9,4 +9,4 @@
 
 | Wheel File | License | CVE IDs |
 |:-----------|:-------|:--------|
-| abseil_cpp-20230125.4-py3-none-manylinux_2_34_ppc64le.whl | `Apache-2.0` |[link](https://github.com/Vipul-Ajmera/pyeco/blob/main/DevpiWheelsIndex.md#abseil-cpp) |
+| abseil_cpp-20230125.4-py3-none-manylinux_2_34_ppc64le.whl | `Apache-2.0` |[link](https://github.com/Vipul-Ajmera/pyeco/tree/test/CVE/abseil-cpp/20230125.4) |
