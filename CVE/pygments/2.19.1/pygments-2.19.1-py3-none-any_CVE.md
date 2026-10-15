@@ -1,0 +1,11 @@
+**Package:** `pygments`  
+**Version:** `2.19.1`  
+**Wheel:** `pygments-2.19.1-py3-none-any.whl`  
+
+---
+
+## Known CVEs
+
+| # | CVE ID |
+|:--|:-------|
+| 1 | `GHSA-5239-wwwm-4pmq` |
