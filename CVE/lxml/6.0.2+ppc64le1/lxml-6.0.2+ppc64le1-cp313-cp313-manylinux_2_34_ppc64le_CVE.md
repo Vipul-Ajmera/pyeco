@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- LOW = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-vfmq-68hx-4jfw` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-vfmq-68hx-4jfw` | LOW |
+

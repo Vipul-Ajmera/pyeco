@@ -4,9 +4,17 @@
 
 ---
 
+## Severity Summary
+
+- HIGH = 1
+- MEDIUM = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-m959-cc7f-wv43` |
-| 2 | `GHSA-p423-j2cm-9vmq` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-m959-cc7f-wv43` | HIGH |
+| 2 | `GHSA-p423-j2cm-9vmq` | MEDIUM |
+

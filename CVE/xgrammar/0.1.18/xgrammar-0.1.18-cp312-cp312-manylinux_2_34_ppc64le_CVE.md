@@ -4,9 +4,17 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 1
+- MEDIUM = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-5cmr-4px5-23pc` |
-| 2 | `GHSA-7rgv-gqhr-fxg3` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-5cmr-4px5-23pc` | CRITICAL |
+| 2 | `GHSA-7rgv-gqhr-fxg3` | MEDIUM |
+

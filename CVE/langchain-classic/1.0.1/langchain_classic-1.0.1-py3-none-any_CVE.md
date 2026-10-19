@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-3644-q5cj-c5c7` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-3644-q5cj-c5c7` | CRITICAL |
+

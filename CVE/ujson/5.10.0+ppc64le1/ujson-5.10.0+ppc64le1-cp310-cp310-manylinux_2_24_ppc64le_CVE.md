@@ -4,9 +4,16 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 2
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-c8rr-9gxc-jprv` |
-| 2 | `GHSA-wgvc-ghv9-3pmm` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-c8rr-9gxc-jprv` | CRITICAL |
+| 2 | `GHSA-wgvc-ghv9-3pmm` | CRITICAL |
+

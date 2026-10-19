@@ -4,9 +4,16 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 2
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-3749-ghw9-m3mg` |
-| 2 | `GHSA-887c-mr87-cxwp` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-3749-ghw9-m3mg` | CRITICAL |
+| 2 | `GHSA-887c-mr87-cxwp` | CRITICAL |
+

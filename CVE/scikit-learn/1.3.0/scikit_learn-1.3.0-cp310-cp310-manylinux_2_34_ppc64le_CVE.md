@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- HIGH = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-jw8x-6495-233v` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-jw8x-6495-233v` | HIGH |
+

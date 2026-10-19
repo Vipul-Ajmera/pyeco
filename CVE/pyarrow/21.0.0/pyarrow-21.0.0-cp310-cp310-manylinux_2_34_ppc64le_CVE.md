@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- HIGH = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-rgxp-2hwp-jwgg` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-rgxp-2hwp-jwgg` | HIGH |
+

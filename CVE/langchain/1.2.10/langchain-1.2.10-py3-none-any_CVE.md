@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- HIGH = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-gr75-jv2w-4656` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-gr75-jv2w-4656` | HIGH |
+

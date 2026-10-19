@@ -4,10 +4,18 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 2
+- MEDIUM = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-78cv-mqj4-43f7` |
-| 2 | `GHSA-fqwm-6jpj-5wxc` |
-| 3 | `GHSA-qjxf-f2mg-c6mc` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-78cv-mqj4-43f7` | CRITICAL |
+| 2 | `GHSA-fqwm-6jpj-5wxc` | MEDIUM |
+| 3 | `GHSA-qjxf-f2mg-c6mc` | CRITICAL |
+

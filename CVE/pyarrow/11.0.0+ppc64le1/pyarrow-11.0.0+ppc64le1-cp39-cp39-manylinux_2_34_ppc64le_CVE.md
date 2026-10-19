@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- LOW = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-5wvp-7f3h-6wmm` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-5wvp-7f3h-6wmm` | LOW |
+

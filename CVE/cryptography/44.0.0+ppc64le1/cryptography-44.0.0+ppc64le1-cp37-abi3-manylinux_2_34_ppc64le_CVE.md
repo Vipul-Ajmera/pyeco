@@ -4,10 +4,19 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 1
+- HIGH = 1
+- LOW = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-79v4-65xg-pq4g` |
-| 2 | `GHSA-m959-cc7f-wv43` |
-| 3 | `GHSA-r6ph-v2qm-q3c2` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-79v4-65xg-pq4g` | CRITICAL |
+| 2 | `GHSA-m959-cc7f-wv43` | HIGH |
+| 3 | `GHSA-r6ph-v2qm-q3c2` | LOW |
+

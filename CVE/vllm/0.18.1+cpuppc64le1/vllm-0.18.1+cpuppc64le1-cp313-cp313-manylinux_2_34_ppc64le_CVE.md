@@ -4,13 +4,22 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 4
+- HIGH = 1
+- LOW = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-3mwp-wvh9-7528` |
-| 2 | `GHSA-83vm-p52w-f9pw` |
-| 3 | `GHSA-hpv8-x276-m59f` |
-| 4 | `GHSA-pf3h-qjgv-vcpr` |
-| 5 | `GHSA-pq5c-rjhq-qp7p` |
-| 6 | `GHSA-x368-4g9h-fvv4` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-3mwp-wvh9-7528` | HIGH |
+| 2 | `GHSA-83vm-p52w-f9pw` | CRITICAL |
+| 3 | `GHSA-hpv8-x276-m59f` | CRITICAL |
+| 4 | `GHSA-pf3h-qjgv-vcpr` | CRITICAL |
+| 5 | `GHSA-pq5c-rjhq-qp7p` | CRITICAL |
+| 6 | `GHSA-x368-4g9h-fvv4` | LOW |
+

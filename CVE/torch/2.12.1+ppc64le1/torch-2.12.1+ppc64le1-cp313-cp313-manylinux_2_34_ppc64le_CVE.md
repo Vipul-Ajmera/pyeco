@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- LOW = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-rrmf-rvhw-rf47` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-rrmf-rvhw-rf47` | LOW |
+

@@ -4,11 +4,19 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 1
+- LOW = 3
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-887c-mr87-cxwp` |
-| 2 | `GHSA-qfhq-4f3w-5fph` |
-| 3 | `GHSA-rrmf-rvhw-rf47` |
-| 4 | `GHSA-vgrw-7cvw-pwgx` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-887c-mr87-cxwp` | CRITICAL |
+| 2 | `GHSA-qfhq-4f3w-5fph` | LOW |
+| 3 | `GHSA-rrmf-rvhw-rf47` | LOW |
+| 4 | `GHSA-vgrw-7cvw-pwgx` | LOW |
+

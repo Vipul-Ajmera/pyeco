@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- HIGH = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-87x5-vmc3-756j` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-87x5-vmc3-756j` | HIGH |
+

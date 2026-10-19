@@ -4,9 +4,17 @@
 
 ---
 
+## Severity Summary
+
+- LOW = 1
+- MEDIUM = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-2599-h6xx-hpxp` |
-| 2 | `GHSA-73h3-mf4w-8647` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-2599-h6xx-hpxp` | LOW |
+| 2 | `GHSA-73h3-mf4w-8647` | MEDIUM |
+

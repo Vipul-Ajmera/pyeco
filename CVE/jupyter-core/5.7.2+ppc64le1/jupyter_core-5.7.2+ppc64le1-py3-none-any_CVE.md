@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-33p9-3p43-82vq` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-33p9-3p43-82vq` | CRITICAL |
+

@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- MEDIUM = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-94vc-p8w7-5p49` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-94vc-p8w7-5p49` | MEDIUM |
+

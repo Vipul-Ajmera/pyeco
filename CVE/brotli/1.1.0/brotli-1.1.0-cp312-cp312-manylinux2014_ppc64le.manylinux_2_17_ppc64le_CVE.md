@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- HIGH = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-2qfp-q593-8484` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-2qfp-q593-8484` | HIGH |
+

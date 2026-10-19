@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- MEDIUM = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-p2m9-wcp5-6qw3` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-p2m9-wcp5-6qw3` | MEDIUM |
+

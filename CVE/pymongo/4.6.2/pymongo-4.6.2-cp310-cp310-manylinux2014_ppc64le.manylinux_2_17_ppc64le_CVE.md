@@ -4,8 +4,15 @@
 
 ---
 
+## Severity Summary
+
+- CRITICAL = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-m87m-mmvp-v9qm` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-m87m-mmvp-v9qm` | CRITICAL |
+

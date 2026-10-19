@@ -4,9 +4,17 @@
 
 ---
 
+## Severity Summary
+
+- HIGH = 1
+- MEDIUM = 1
+
+---
+
 ## Known CVEs
 
-| # | CVE ID |
-|:--|:-------|
-| 1 | `GHSA-hc5x-x2vx-497g` |
-| 2 | `GHSA-w3h3-4rj7-4ph4` |
+| # | CVE ID | SEVERITY |
+|:--|:-------|:---------|
+| 1 | `GHSA-hc5x-x2vx-497g` | HIGH |
+| 2 | `GHSA-w3h3-4rj7-4ph4` | MEDIUM |
+
