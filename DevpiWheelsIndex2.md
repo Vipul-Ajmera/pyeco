@@ -4,6 +4,20 @@ Last updated: October 15, 2026
 
 ---
 
+## abseil-cpp
+
+> ### 20230125.4
+>
+> ```text
+> abseil_cpp-20230125.4-py3-none-manylinux_2_34_ppc64le.whl
+> ```
+>
+> **License:** `Apache-2.0`  
+>
+> **CVE:** N.A
+
+---
+
 ## aiohttp
 
 > ### 3.9.0+ppc64le1
@@ -16,6 +30,7 @@ Last updated: October 15, 2026
 > ```
 >
 > **License:** `Apache-2.0`  
+>
 > **CVE:** `🔴 C7 · H8 · M3 · L6`
 >
 > <details>
@@ -52,15 +67,35 @@ Last updated: October 15, 2026
 
 ---
 
-## abseil-cpp
+## ansible-core
 
-> ### 20230125.4
+> ### 2.18.6
 >
 > ```text
-> abseil_cpp-20230125.4-py3-none-manylinux_2_34_ppc64le.whl
+> ansible_core-2.18.6-py3-none-any.whl
 > ```
 >
-> **License:** `Apache-2.0`  
+> **License:** `Apache-2.0`, `BSD-2-Clause`, `BSD-2-Clause-Views`, `BSD-3-Clause`, `CC-BY-4.0`, `GPL-1.0-or-later`, `GPL-2.0-or-later`, `GPL-3.0-only`, `GPL-3.0-or-later`, `JSON`, `MIT`, `MIT OR GPL-1.0-or-later`, `MIT-0`, `Python-2.0`  
+>
+> **CVE:** `🟠 H1`
+>
+> <details>
+> <summary><b>View 1 CVE ID</b></summary>
+>
+> | Severity | CVE ID |
+> |:--|:--|
+> | 🟠 High | `GHSA-w8p5-mx5w-cpqj` |
+>
+> </details>
+---
+> ### 2.18.6+ppc64le1
+>
+> ```text
+> ansible_core-2.18.6+ppc64le1-py3-none-any.whl
+> ```
+>
+> **License:** `Apache-2.0`, `BSD-2-Clause`, `BSD-2-Clause-Views`, `BSD-3-Clause`, `CC-BY-4.0`, `GPL-1.0-or-later`, `GPL-2.0-or-later`, `GPL-3.0-only`, `GPL-3.0-or-later`, `JSON`, `MIT`, `MIT OR GPL-1.0-or-later`, `MIT-0`, `Python-2.0`  
+>
 > **CVE:** N.A
 
 ---
