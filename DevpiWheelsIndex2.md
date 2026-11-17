@@ -87,7 +87,7 @@ Last updated: October 15, 2026
 > | 🟠 High | `GHSA-w8p5-mx5w-cpqj` | 2.18.7 | [View](https://github.com/advisories/GHSA-w8p5-mx5w-cpqj) |
 >
 > </details>
-
+---
 > ### 2.18.6+ppc64le1
 >
 > ```text
