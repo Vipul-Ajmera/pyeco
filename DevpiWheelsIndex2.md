@@ -4,26 +4,41 @@ Last updated: October 15, 2026
 
 ---
 
-### 🧭 Quick Navigation
-**[ A ](#-a-)** &nbsp;|&nbsp; **[ B ](#-b-)** &nbsp;|&nbsp; **[ C ](#-c-)** &nbsp;|&nbsp; **[ D ](#-d-)** &nbsp;|&nbsp; **[ E ](#-e-)** &nbsp;|&nbsp; **[ F ](#-f-)** &nbsp;|&nbsp; **[ G ](#-g-)** &nbsp;|&nbsp; **[ H ](#-h-)** &nbsp;|&nbsp; **[ I ](#-i-)** &nbsp;|&nbsp; **[ J ](#-j-)** &nbsp;|&nbsp; **[ K ](#-k-)** &nbsp;|&nbsp; **[ L ](#-l-)** &nbsp;|&nbsp; **[ M ](#-m-)** &nbsp;|&nbsp; **[ N ](#-n-)** &nbsp;|&nbsp; **[ O ](#-o-)** &nbsp;|&nbsp; **[ P ](#-p-)** &nbsp;|&nbsp; **[ Q ](#-q-)** &nbsp;|&nbsp; **[ R ](#-r-)** &nbsp;|&nbsp; **[ S ](#-s-)** &nbsp;|&nbsp; **[ T ](#-t-)** &nbsp;|&nbsp; **[ U ](#-u-)** &nbsp;|&nbsp; **[ V ](#-v-)** &nbsp;|&nbsp; **[ W ](#-w-)** &nbsp;|&nbsp; **[ X ](#-x-)** &nbsp;|&nbsp; **[ Y ](#-y-)** &nbsp;|&nbsp; **[ Z ](#-z-)** &nbsp;|&nbsp; **[ # ](#-0-9-)**
-
 <details>
-<summary><b>📚 Browse All 200 Packages by Letter (Click to expand)</b></summary>
+<summary><b>📚 Browse Packages by Letter (Click to expand)</b></summary>
 <br>
 
-| Letter | Packages |
-|:---:|:---|
-| **A** (8) | [`abseil-cpp`](#abseil-cpp) · [`aiohttp`](#aiohttp) · [`ansible-core`](#ansible-core) · [`anthropic`](#anthropic) · [`anyio`](#anyio) · [`arrow`](#arrow) · [`astroid`](#astroid) · [`attrs`](#attrs) |
-| **B** (4) | [`babel`](#babel) · [`bcrypt`](#bcrypt) · [`black`](#black) · [`boto3`](#boto3) |
-| **C** (6) | [`catboost`](#catboost) · [`cbor2`](#cbor2) · [`certifi`](#certifi) · [`cffi`](#cffi) · [`click`](#click) · [`cryptography`](#cryptography) |
-| **...** | ... |
+<details>
+<summary><b>A</b></summary>
+
+[`abseil-cpp`](#abseil-cpp) · [`aiofiles`](#aiofiles) · [`aiohttp`](#aiohttp) · [`alembic`](#alembic) · [`annotated-types`](#annotated-types) · [`ansible-core`](#ansible-core) · [`anthropic`](#anthropic) · [`anyio`](#anyio) · [`arrow`](#arrow) · [`astroid`](#astroid) · [`async-timeout`](#async-timeout) · [`attrs`](#attrs)
+
+</details>
+
+<details>
+<summary><b>B</b></summary>
+
+[`babel`](#babel) · [`bcrypt`](#bcrypt) · [`beautifulsoup4`](#beautifulsoup4) · [`black`](#black) · [`bleach`](#bleach) · [`blinker`](#blinker) · [`boto3`](#boto3) · [`botocore`](#botocore)
+
+</details>
+
+<details>
+<summary><b>C</b></summary>
+
+[`catboost`](#catboost) · [`cbor2`](#cbor2) · [`certifi`](#certifi) · [`cffi`](#cffi) · [`click`](#click) · [`cryptography`](#cryptography)
+
+</details>
+
+<details>
+<summary><b># (0–9)</b></summary>
+
+[`7zip`](#7zip)
+
+</details>
 
 </details>
 
 ---
-
-# • A •
-<sub>[↑ Back to Top](#devpi-wheels-index)</sub>
 
 ## abseil-cpp
 
@@ -45,6 +60,9 @@ Last updated: October 15, 2026
 >
 > ```text
 > aiohttp-3.9.0+ppc64le1-cp310-cp310-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
+> aiohttp-3.9.0+ppc64le1-cp311-cp311-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
+> aiohttp-3.9.0+ppc64le1-cp312-cp312-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
+> aiohttp-3.9.0+ppc64le1-cp39-cp39-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
 > ```
 >
 > **License:** `Apache-2.0`
@@ -61,14 +79,41 @@ Last updated: October 15, 2026
 > | Severity | CVE ID | Fixed in | Link |
 > |:--|:--|:-:|:-:|
 > | 🔴 Critical | `GHSA-3wq7-rqq7-wx6j` | 3.9.2 | [View](https://github.com/advisories/GHSA-3wq7-rqq7-wx6j) |
+> | 🔴 Critical | `GHSA-7gpw-8wmc-pm8g` | 3.9.2 | [View](https://github.com/advisories/GHSA-7gpw-8wmc-pm8g) |
+> | 🔴 Critical | `GHSA-8495-4g3g-x7pr` | 3.9.4 | [View](https://github.com/advisories/GHSA-8495-4g3g-x7pr) |
 >
 >
 </details>
 
 ---
 
-# • B •
-<sub>[↑ Back to Top](#devpi-wheels-index)</sub>
+## ansible-core
+
+> ### 2.18.6
+>
+> ```text
+> ansible_core-2.18.6-py3-none-any.whl
+> ```
+>
+> **License:** `Apache-2.0`, `BSD-2-Clause`, `BSD-2-Clause-Views`, `BSD-3-Clause`
+>
+> **CVE:** `🟠 H1`
+>
+>
+<details>
+>
+<summary>
+<b>View 1 CVE ID</b>
+</summary>
+>
+> | Severity | CVE ID | Fixed in | Link |
+> |:--|:--|:-:|:-:|
+> | 🟠 High | `GHSA-w8p5-mx5w-cpqj` | 2.18.7 | [View](https://github.com/advisories/GHSA-w8p5-mx5w-cpqj) |
+>
+>
+</details>
+
+---
 
 ## bcrypt
 
