@@ -4,6 +4,25 @@ Last updated: October 15, 2026
 
 ---
 
+### Quick Navigation
+[A](#-a-) &nbsp;•&nbsp; [B](#-b-) &nbsp;•&nbsp; [C](#-c-) &nbsp;•&nbsp; [D](#-d-) &nbsp;•&nbsp; ... &nbsp;•&nbsp; [Z](#-z-)
+
+<details>
+<summary><b>📚 Browse All Packages by Name (A–Z)</b></summary>
+
+- **A**: [abseil-cpp](#abseil-cpp) · [aiohttp](#aiohttp) · [ansible-core](#ansible-core)
+- **B**: [bcrypt](#bcrypt) · [black](#black)
+- **C**: [catboost](#catboost) · [cbor2](#cbor2) · [clevercsv](#clevercsv)
+
+</details>
+
+---
+
+# • A •
+
+## abseil-cpp
+...
+
 ## abseil-cpp
 
 > ### 20230125.4
