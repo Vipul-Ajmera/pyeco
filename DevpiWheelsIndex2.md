@@ -8,6 +8,10 @@ Last updated: October 15, 2026
 <summary>📚 <b>Index of Packages (A–Z)</b></summary>
 <br>
 
+<sub>💡 <i>Click any version tag to jump directly to its wheel downloads and CVE security records.</i></sub>
+
+<br><br>
+
 <details>
 <summary>📁 <b>A</b></summary>
 <br>
@@ -15,21 +19,21 @@ Last updated: October 15, 2026
 <details>
 <summary>📦 <b>abseil-cpp</b></summary>
 
-> 🏷️ [`20230125.4`](#202301254)
+> 🏷️ [`20230125.4`](#abseil-cpp-202301254)
 
 </details>
 
 <details>
 <summary>📦 <b>aiohttp</b></summary>
 
-> 🏷️ [`3.9.0+ppc64le1`](#390ppc64le1) &nbsp;•&nbsp; [`3.9.5`](#395) &nbsp;•&nbsp; [`3.10.11`](#31011)
+> 🏷️ [`3.9.0+ppc64le1`](#aiohttp-390ppc64le1) &nbsp;•&nbsp; [`3.9.5`](#aiohttp-395) &nbsp;•&nbsp; [`3.10.11`](#aiohttp-31011)
 
 </details>
 
 <details>
 <summary>📦 <b>ansible-core</b></summary>
 
-> 🏷️ [`2.18.6`](#2186) &nbsp;•&nbsp; [`2.18.6+ppc64le1`](#2186ppc64le1)
+> 🏷️ [`2.18.6`](#ansible-core-2186) &nbsp;•&nbsp; [`2.18.6+ppc64le1`](#ansible-core-2186ppc64le1)
 
 </details>
 
@@ -42,14 +46,14 @@ Last updated: October 15, 2026
 <details>
 <summary>📦 <b>bcrypt</b></summary>
 
-> 🏷️ [`4.1.2`](#412) &nbsp;•&nbsp; [`4.2.0`](#420)
+> 🏷️ [`4.1.2`](#bcrypt-412) &nbsp;•&nbsp; [`4.2.0`](#bcrypt-420)
 
 </details>
 
 <details>
 <summary>📦 <b>black</b></summary>
 
-> 🏷️ [`24.3.0`](#2430)
+> 🏷️ [`24.3.0`](#black-2430)
 
 </details>
 
@@ -62,7 +66,7 @@ Last updated: October 15, 2026
 <details>
 <summary>📦 <b>7zip</b></summary>
 
-> 🏷️ [`21.07`](#2107)
+> 🏷️ [`21.07`](#7zip-2107)
 
 </details>
 
@@ -72,8 +76,9 @@ Last updated: October 15, 2026
 
 ---
 
-## abseil-cpp
+## abseil-cpp <sub>[↑ Top](#devpi-wheels-index)</sub>
 
+<a id="abseil-cpp-202301254"></a>
 > ### 20230125.4
 >
 > ```text
@@ -86,8 +91,9 @@ Last updated: October 15, 2026
 
 ---
 
-## aiohttp
+## aiohttp <sub>[↑ Top](#devpi-wheels-index)</sub>
 
+<a id="aiohttp-390ppc64le1"></a>
 > ### 3.9.0+ppc64le1
 >
 > ```text
@@ -118,10 +124,23 @@ Last updated: October 15, 2026
 >
 </details>
 
+<a id="aiohttp-395"></a>
+> ### 3.9.5
+>
+> ```text
+> aiohttp-3.9.5-cp310-cp310-manylinux2014_ppc64le.whl
+> aiohttp-3.9.5-cp311-cp311-manylinux2014_ppc64le.whl
+> ```
+>
+> **License:** `Apache-2.0`
+>
+> **CVE:** N.A
+
 ---
 
-## ansible-core
+## ansible-core <sub>[↑ Top](#devpi-wheels-index)</sub>
 
+<a id="ansible-core-2186"></a>
 > ### 2.18.6
 >
 > ```text
@@ -145,19 +164,5 @@ Last updated: October 15, 2026
 >
 >
 </details>
-
----
-
-## bcrypt
-
-> ### 4.1.2
->
-> ```text
-> bcrypt-4.1.2-cp310-cp310-manylinux_2_17_ppc64le.whl
-> ```
->
-> **License:** `Apache-2.0`
->
-> **CVE:** N.A
 
 ---
