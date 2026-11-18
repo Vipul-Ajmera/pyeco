@@ -1,222 +1,112 @@
 # DevPi Wheels Index
 
-Last updated: October 15, 2026
+Last updated: March 23, 2026
+
+Last CVE scanned: March 20, 2026
 
 ---
 
 <details>
-<summary>📚 <b>Index of Packages (A–Z)</b></summary>
+<summary>📚 <b>Index of Packages (A–Z)</b>
+</summary>
 <br>
-
 <details>
-<summary>📁 <b>A</b></summary>
+<summary>📁 <b>C</b>
+</summary>
 <br>
-
 <details>
-<summary>📦 <b>abseil-cpp</b></summary>
+<summary>📦 <b>cryptography</b>
+</summary>
 
-> 🏷️ [`20230125.4`](#abseil-cpp-202301254)
+> 🏷️ [`41.0.7`](#cryptography-4107) &nbsp;•&nbsp; [`42.0.5`](#cryptography-4205)
 
 </details>
-
-<details>
-<summary>📦 <b>aiohttp</b></summary>
-
-> 🏷️ [`3.9.0+ppc64le1`](#aiohttp-390ppc64le1) &nbsp;•&nbsp; [`3.9.5`](#aiohttp-395) &nbsp;•&nbsp; [`3.10.11`](#aiohttp-31011)
-
 </details>
-
 <details>
-<summary>📦 <b>ansible-core</b></summary>
-
-> 🏷️ [`2.18.6`](#ansible-core-2186) &nbsp;•&nbsp; [`2.18.6+ppc64le1`](#ansible-core-2186ppc64le1)
-
-</details>
-
-</details>
-
-<details>
-<summary>📁 <b>B</b></summary>
+<summary>📁 <b>N</b>
+</summary>
 <br>
-
 <details>
-<summary>📦 <b>bcrypt</b></summary>
+<summary>📦 <b>numpy</b>
+</summary>
 
-> 🏷️ [`4.1.2`](#bcrypt-412) &nbsp;•&nbsp; [`4.2.0`](#bcrypt-420)
-
-</details>
-
-<details>
-<summary>📦 <b>black</b></summary>
-
-> 🏷️ [`24.3.0`](#black-2430)
+> 🏷️ [`1.26.4`](#numpy-1264)
 
 </details>
-
 </details>
-
-<details>
-<summary>📁 <b># (0–9)</b></summary>
-<br>
-
-<details>
-<summary>📦 <b>7zip</b></summary>
-
-> 🏷️ [`21.07`](#7zip-2107)
-
-</details>
-
-</details>
-
 </details>
 
 ---
 
-## abseil-cpp
+## cryptography
 
-<a id="abseil-cpp-202301254"></a>
-> ### 20230125.4
+<a id="cryptography-4107">
+</a>
+> ### 41.0.7
 >
 > ```text
-> abseil_cpp-20230125.4-py3-none-manylinux_2_34_ppc64le.whl
+> cryptography-41.0.7-cp39-abi3-manylinux_2_28_ppc64le.whl
 > ```
 >
-> **License:** `Apache-2.0`
+> **License:** `Apache-2.0`, `BSD-3-Clause`
 >
-> **CVE:** N.A
-
----
-
-## aiohttp
-
-<a id="aiohttp-390ppc64le1"></a>
-> ### 3.9.0+ppc64le1
+> **CVE:** `🟠 H1 · M1`
 >
-> ```text
-> aiohttp-3.9.0+ppc64le1-cp310-cp310-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
-> aiohttp-3.9.0+ppc64le1-cp311-cp311-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
-> aiohttp-3.9.0+ppc64le1-cp312-cp312-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
-> aiohttp-3.9.0+ppc64le1-cp39-cp39-manylinux2014_ppc64le.manylinux_2_17_ppc64le.whl
-> ```
 >
-> **License:** `Apache-2.0`
+<details>
 >
-> **CVE:** `🔴 C7 · H8 · M3 · L6`
->
-> <details>
-> <summary><b>View 24 CVE IDs</b></summary>
+<summary>
+<b>View 2 CVE IDs</b>
+</summary>
 >
 > | Severity | CVE ID | Fixed in | Link |
 > |:--|:--|:-:|:-:|
-> | 🔴 Critical | `GHSA-3wq7-rqq7-wx6j` | 3.9.2 | [View](https://github.com/advisories/GHSA-3wq7-rqq7-wx6j) |
-> | 🔴 Critical | `GHSA-7gpw-8wmc-pm8g` | 3.9.2 | [View](https://github.com/advisories/GHSA-7gpw-8wmc-pm8g) |
-> | 🔴 Critical | `GHSA-8495-4g3g-x7pr` | 3.9.4 | [View](https://github.com/advisories/GHSA-8495-4g3g-x7pr) |
-> | 🔴 Critical | `GHSA-9548-qrrj-x5pj` | 3.9.4 | [View](https://github.com/advisories/GHSA-9548-qrrj-x5pj) |
-> | 🔴 Critical | `GHSA-966j-vmvw-g2g9` | 3.9.5 | [View](https://github.com/advisories/GHSA-966j-vmvw-g2g9) |
-> | 🔴 Critical | `GHSA-fh55-r93g-j68g` | 3.10.2 | [View](https://github.com/advisories/GHSA-fh55-r93g-j68g) |
-> | 🔴 Critical | `GHSA-w2fm-2cpv-w7v5` | 3.10.11 | [View](https://github.com/advisories/GHSA-w2fm-2cpv-w7v5) |
-> | 🟠 High | `GHSA-2vrm-gr82-f7m5` | 3.9.2 | [View](https://github.com/advisories/GHSA-2vrm-gr82-f7m5) |
-> | 🟠 High | `GHSA-54jq-c3m8-4m76` | 3.9.2 | [View](https://github.com/advisories/GHSA-54jq-c3m8-4m76) |
-> | 🟠 High | `GHSA-69f9-5gxw-wvc2` | 3.9.4 | [View](https://github.com/advisories/GHSA-69f9-5gxw-wvc2) |
-> | 🟠 High | `GHSA-6jhg-hg63-jvvf` | 3.9.4 | [View](https://github.com/advisories/GHSA-6jhg-hg63-jvvf) |
-> | 🟠 High | `GHSA-c427-h43c-vf67` | 3.9.5 | [View](https://github.com/advisories/GHSA-c427-h43c-vf67) |
-> | 🟠 High | `GHSA-g84x-mcqj-x9qq` | 3.10.2 | [View](https://github.com/advisories/GHSA-g84x-mcqj-x9qq) |
-> | 🟠 High | `GHSA-jj3x-wxrx-4x23` | 3.10.11 | [View](https://github.com/advisories/GHSA-jj3x-wxrx-4x23) |
-> | 🟠 High | `GHSA-mwh4-6h8g-pg8w` | 3.11.10 | [View](https://github.com/advisories/GHSA-mwh4-6h8g-pg8w) |
-> | 🟡 Medium | `GHSA-5h86-8mv2-jq9f` | 3.9.4 | [View](https://github.com/advisories/GHSA-5h86-8mv2-jq9f) |
-> | 🟡 Medium | `GHSA-5m98-qgg9-wh84` | 3.9.5 | [View](https://github.com/advisories/GHSA-5m98-qgg9-wh84) |
-> | 🟡 Medium | `GHSA-6mq8-rvhq-8wgg` | 3.10.2 | [View](https://github.com/advisories/GHSA-6mq8-rvhq-8wgg) |
-> | 🔵 Low | `GHSA-63hf-3vf5-4wqf` | 3.9.2 | [View](https://github.com/advisories/GHSA-63hf-3vf5-4wqf) |
-> | 🔵 Low | `GHSA-8qpw-xqxj-h4r2` | 3.9.4 | [View](https://github.com/advisories/GHSA-8qpw-xqxj-h4r2) |
-> | 🔵 Low | `GHSA-hcc4-c3v8-rx92` | 3.9.5 | [View](https://github.com/advisories/GHSA-hcc4-c3v8-rx92) |
-> | 🔵 Low | `GHSA-m5qp-6w8w-w647` | 3.10.2 | [View](https://github.com/advisories/GHSA-m5qp-6w8w-w647) |
-> | 🔵 Low | `GHSA-mqqc-3gqh-h2x8` | 3.10.11 | [View](https://github.com/advisories/GHSA-mqqc-3gqh-h2x8) |
-> | 🔵 Low | `GHSA-p998-jp59-783m` | 3.11.10 | [View](https://github.com/advisories/GHSA-p998-jp59-783m) |
+> | 🟠 High | `CVE-2024-26130` | 42.0.4 | [View](https://nvd.nist.gov/vuln/detail/CVE-2024-26130) |
+> | 🟡 Medium | `GHSA-h4gh-qq45-vh27` | 43.0.1 | [View](https://github.com/advisories/GHSA-h4gh-qq45-vh27) |
 >
-> </details>
+>
+</details>
 ---
-<a id="aiohttp-395"></a>
-> ### 3.9.5
+<a id="cryptography-4205">
+</a>
+> ### 42.0.5
 >
 > ```text
-> aiohttp-3.9.5-cp310-cp310-manylinux2014_ppc64le.whl
-> aiohttp-3.9.5-cp311-cp311-manylinux2014_ppc64le.whl
+> cryptography-42.0.5-cp39-abi3-manylinux_2_28_ppc64le.whl
 > ```
 >
-> **License:** `Apache-2.0`
+> **License:** `Apache-2.0`, `BSD-3-Clause`
 >
-> **CVE:** N.A
----
-<a id="aiohttp-31011"></a>
-> ### 3.10.11
+> **CVE:** `🟡 M1`
 >
-> ```text
-> aiohttp-3.10.11-cp310-cp310-manylinux_2_17_ppc64le.whl
-> aiohttp-3.10.11-cp311-cp311-manylinux_2_17_ppc64le.whl
-> ```
 >
-> **License:** `Apache-2.0`
+<details>
 >
-> **CVE:** N.A
-
----
-
-## ansible-core
-
-<a id="ansible-core-2186"></a>
-> ### 2.18.6
->
-> ```text
-> ansible_core-2.18.6-py3-none-any.whl
-> ```
->
-> **License:** `Apache-2.0`, `BSD-2-Clause`, `BSD-2-Clause-Views`, `BSD-3-Clause`
->
-> **CVE:** `🟠 H1`
->
-> <details>
-> <summary><b>View 1 CVE ID</b></summary>
+<summary>
+<b>View 1 CVE ID</b>
+</summary>
 >
 > | Severity | CVE ID | Fixed in | Link |
 > |:--|:--|:-:|:-:|
-> | 🟠 High | `GHSA-w8p5-mx5w-cpqj` | 2.18.7 | [View](https://github.com/advisories/GHSA-w8p5-mx5w-cpqj) |
+> | 🟡 Medium | `GHSA-h4gh-qq45-vh27` | 43.0.1 | [View](https://github.com/advisories/GHSA-h4gh-qq45-vh27) |
 >
-> </details>
----
-<a id="ansible-core-2186ppc64le1"></a>
-> ### 2.18.6+ppc64le1
 >
-> ```text
-> ansible_core-2.18.6+ppc64le1-py3-none-any.whl
-> ```
->
-> **License:** `Apache-2.0`, `BSD-2-Clause`, `BSD-2-Clause-Views`, `BSD-3-Clause`
->
-> **CVE:** N.A
+</details>
 
 ---
 
-## bcrypt
+## numpy
 
-<a id="bcrypt-412"></a>
-> ### 4.1.2
+<a id="numpy-1264">
+</a>
+> ### 1.26.4
 >
 > ```text
-> bcrypt-4.1.2-cp310-cp310-manylinux_2_17_ppc64le.whl
+> numpy-1.26.4-cp311-cp311-manylinux_2_17_ppc64le.whl
+> numpy-1.26.4-cp312-cp312-manylinux_2_17_ppc64le.whl
 > ```
 >
-> **License:** `Apache-2.0`
->
-> **CVE:** N.A
----
-<a id="bcrypt-420"></a>
-> ### 4.2.0
->
-> ```text
-> bcrypt-4.2.0-cp310-cp310-manylinux_2_17_ppc64le.whl
-> ```
->
-> **License:** `Apache-2.0`
+> **License:** `BSD-3-Clause`
 >
 > **CVE:** N.A
 
