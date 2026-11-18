@@ -4,15 +4,38 @@ Last updated: October 15, 2026
 
 ---
 
-### Quick Navigation
-[A](#-a-) &nbsp;•&nbsp; [B](#-b-) &nbsp;•&nbsp; [C](#-c-) &nbsp;•&nbsp; [D](#-d-) &nbsp;•&nbsp; ... &nbsp;•&nbsp; [Z](#-z-)
+# DevPi Wheels Index
 
-<details>
-<summary><b>📚 Browse All Packages by Name (A–Z)</b></summary>
+Last updated: October 15, 2026
 
-- **A**: [abseil-cpp](#abseil-cpp) · [aiohttp](#aiohttp) · [ansible-core](#ansible-core)
-- **B**: [bcrypt](#bcrypt) · [black](#black)
-- **C**: [catboost](#catboost) · [cbor2](#cbor2) · [clevercsv](#clevercsv)
+---
+
+### Quick Jump
+[A](#-a-) &nbsp;•&nbsp; [B](#-b-) &nbsp;•&nbsp; [C](#-c-) &nbsp;•&nbsp; [D](#-d-) &nbsp;•&nbsp; [E](#-e-) &nbsp;•&nbsp; [F](#-f-) &nbsp;•&nbsp; [G](#-g-) &nbsp;•&nbsp; [H](#-h-) &nbsp;•&nbsp; [I](#-i-) &nbsp;•&nbsp; [J](#-j-) &nbsp;•&nbsp; [K](#-k-) &nbsp;•&nbsp; [L](#-l-) &nbsp;•&nbsp; [M](#-m-) &nbsp;•&nbsp; [N](#-n-) &nbsp;•&nbsp; [O](#-o-) &nbsp;•&nbsp; [P](#-p-) &nbsp;•&nbsp; [Q](#-q-) &nbsp;•&nbsp; [R](#-r-) &nbsp;•&nbsp; [S](#-s-) &nbsp;•&nbsp; [T](#-t-) &nbsp;•&nbsp; [U](#-u-) &nbsp;•&nbsp; [V](#-v-) &nbsp;•&nbsp; [W](#-w-) &nbsp;•&nbsp; [X](#-x-) &nbsp;•&nbsp; [Y](#-y-) &nbsp;•&nbsp; [Z](#-z-) &nbsp;•&nbsp; [#](#-0-9-)
+
+---
+
+# • A •
+[↑ Top](#devpi-wheels-index)
+
+## abseil-cpp
+
+> ### 20230125.4
+>
+> ```text
+> abseil_cpp-20230125.4-py3-none-manylinux_2_34_ppc64le.whl
+> ```
+>
+> **License:** `Apache-2.0`
+>
+> **CVE:** N.A
+
+---
+
+## aiohttp
+
+> ### 3.9.0+ppc64le1
+> ...
 
 </details>
 
