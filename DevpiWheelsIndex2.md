@@ -93,18 +93,18 @@ Last CVE scanned: March 20, 2026
 > **License:** `Apache-2.0`, `BSD-3-Clause`
 >
 > **CVE:** `🟠 H1 · M1`
-
-<details>
-<summary>
-<b>View 2 CVE IDs</b>
-</summary>
-
+>
+> <details>
+> <summary>
+> <b>View 2 CVE IDs</b>
+> </summary>
+>
 > | Severity | CVE ID | Fixed in | Link |
 > |:--|:--|:-:|:-:|
 > | 🟠 High | `CVE-2024-26130` | 42.0.4 | [View](https://nvd.nist.gov/vuln/detail/CVE-2024-26130) |
 > | 🟡 Medium | `GHSA-h4gh-qq45-vh27` | 43.0.1 | [View](https://github.com/advisories/GHSA-h4gh-qq45-vh27) |
-
-</details>
+>
+> </details>
 
 ---
 <a id="cryptography-4205">
@@ -119,17 +119,17 @@ Last CVE scanned: March 20, 2026
 > **License:** `Apache-2.0`, `BSD-3-Clause`
 >
 > **CVE:** `🟡 M1`
-
-<details>
-<summary>
-<b>View 1 CVE ID</b>
-</summary>
-
+>
+> <details>
+> <summary>
+> <b>View 1 CVE ID</b>
+> </summary>
+>
 > | Severity | CVE ID | Fixed in | Link |
 > |:--|:--|:-:|:-:|
 > | 🟡 Medium | `GHSA-h4gh-qq45-vh27` | 43.0.1 | [View](https://github.com/advisories/GHSA-h4gh-qq45-vh27) |
-
-</details>
+>
+> </details>
 
 ---
 
@@ -165,18 +165,18 @@ Last CVE scanned: March 20, 2026
 > **License:** `HPND`
 >
 > **CVE:** `🔴 C1 · H1 · L1`
-
-<details>
-<summary>
-<b>View 3 CVE IDs</b>
-</summary>
-
+>
+> <details>
+> <summary>
+> <b>View 3 CVE IDs</b>
+> </summary>
+>
 > | Severity | CVE ID | Fixed in | Link |
 > |:--|:--|:-:|:-:|
 > | 🔴 Critical | `CVE-2024-28219` | 10.3.0 | [View](https://nvd.nist.gov/vuln/detail/CVE-2024-28219) |
 > | 🟠 High | `CVE-2023-50447` | 10.2.0 | [View](https://nvd.nist.gov/vuln/detail/CVE-2023-50447) |
 > | 🔵 Low | `CVE-2023-44271` | – | [View](https://nvd.nist.gov/vuln/detail/CVE-2023-44271) |
-
-</details>
+>
+> </details>
 
 ---
