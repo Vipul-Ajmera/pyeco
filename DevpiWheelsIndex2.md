@@ -8,10 +8,6 @@ Last updated: October 15, 2026
 <summary>📚 <b>Index of Packages (A–Z)</b></summary>
 <br>
 
-<sub>💡 <i>Click any version tag to jump directly to its wheel downloads and CVE security records.</i></sub>
-
-<br><br>
-
 <details>
 <summary>📁 <b>A</b></summary>
 <br>
@@ -76,7 +72,7 @@ Last updated: October 15, 2026
 
 ---
 
-## abseil-cpp <sub>[↑ Top](#devpi-wheels-index)</sub>
+## abseil-cpp
 
 <a id="abseil-cpp-202301254"></a>
 > ### 20230125.4
@@ -91,7 +87,7 @@ Last updated: October 15, 2026
 
 ---
 
-## aiohttp <sub>[↑ Top](#devpi-wheels-index)</sub>
+## aiohttp
 
 <a id="aiohttp-390ppc64le1"></a>
 > ### 3.9.0+ppc64le1
@@ -136,9 +132,21 @@ Last updated: October 15, 2026
 >
 > **CVE:** N.A
 
+<a id="aiohttp-31011"></a>
+> ### 3.10.11
+>
+> ```text
+> aiohttp-3.10.11-cp310-cp310-manylinux_2_17_ppc64le.whl
+> aiohttp-3.10.11-cp311-cp311-manylinux_2_17_ppc64le.whl
+> ```
+>
+> **License:** `Apache-2.0`
+>
+> **CVE:** N.A
+
 ---
 
-## ansible-core <sub>[↑ Top](#devpi-wheels-index)</sub>
+## ansible-core
 
 <a id="ansible-core-2186"></a>
 > ### 2.18.6
@@ -164,5 +172,42 @@ Last updated: October 15, 2026
 >
 >
 </details>
+
+<a id="ansible-core-2186ppc64le1"></a>
+> ### 2.18.6+ppc64le1
+>
+> ```text
+> ansible_core-2.18.6+ppc64le1-py3-none-any.whl
+> ```
+>
+> **License:** `Apache-2.0`, `BSD-2-Clause`, `BSD-2-Clause-Views`, `BSD-3-Clause`
+>
+> **CVE:** N.A
+
+---
+
+## bcrypt
+
+<a id="bcrypt-412"></a>
+> ### 4.1.2
+>
+> ```text
+> bcrypt-4.1.2-cp310-cp310-manylinux_2_17_ppc64le.whl
+> ```
+>
+> **License:** `Apache-2.0`
+>
+> **CVE:** N.A
+
+<a id="bcrypt-420"></a>
+> ### 4.2.0
+>
+> ```text
+> bcrypt-4.2.0-cp310-cp310-manylinux_2_17_ppc64le.whl
+> ```
+>
+> **License:** `Apache-2.0`
+>
+> **CVE:** N.A
 
 ---
