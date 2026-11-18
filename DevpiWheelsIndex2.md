@@ -2,7 +2,6 @@
 
 Last updated: October 15, 2026
 
----
 
 <details>
 <summary><h3>🗂️ Browse Catalog by Letter (Click to expand)</h3></summary>
@@ -12,11 +11,26 @@ Last updated: October 15, 2026
 <summary><b>📁 A</b></summary>
 <br>
 
-| Package | Available Versions |
-|:---|:---|
-| 📦 **abseil-cpp** | [`20230125.4`](#202301254) |
-| 📦 **aiohttp** | [`3.9.0+ppc64le1`](#390ppc64le1) &nbsp;•&nbsp; [`3.9.5`](#395) &nbsp;•&nbsp; [`3.10.11`](#31011) |
-| 📦 **ansible-core** | [`2.18.6`](#2186) &nbsp;•&nbsp; [`2.18.6+ppc64le1`](#2186ppc64le1) |
+<details>
+<summary>📦 <b>abseil-cpp</b></summary>
+
+> **Versions:** [`20230125.4`](#202301254)
+
+</details>
+
+<details>
+<summary>📦 <b>aiohttp</b></summary>
+
+> **Versions:** [`3.9.0+ppc64le1`](#390ppc64le1) &nbsp;•&nbsp; [`3.9.5`](#395) &nbsp;•&nbsp; [`3.10.11`](#31011)
+
+</details>
+
+<details>
+<summary>📦 <b>ansible-core</b></summary>
+
+> **Versions:** [`2.18.6`](#2186) &nbsp;•&nbsp; [`2.18.6+ppc64le1`](#2186ppc64le1)
+
+</details>
 
 </details>
 
@@ -24,10 +38,12 @@ Last updated: October 15, 2026
 <summary><b>📁 B</b></summary>
 <br>
 
-| Package | Available Versions |
-|:---|:---|
-| 📦 **bcrypt** | [`4.1.2`](#412) &nbsp;•&nbsp; [`4.2.0`](#420) |
-| 📦 **black** | [`24.3.0`](#2430) |
+<details>
+<summary>📦 <b>bcrypt</b></summary>
+
+> **Versions:** [`4.1.2`](#412) &nbsp;•&nbsp; [`4.2.0`](#420)
+
+</details>
 
 </details>
 
