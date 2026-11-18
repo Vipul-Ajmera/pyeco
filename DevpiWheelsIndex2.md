@@ -2,7 +2,7 @@
 
 Last updated: October 15, 2026
 
-
+---
 <details>
 <summary><h3>🗂️ Browse Catalog by Letter (Click to expand)</h3></summary>
 <br>
@@ -12,36 +12,35 @@ Last updated: October 15, 2026
 <br>
 
 <details>
-<summary>📦 <b>abseil-cpp</b></summary>
+<summary>📦 <b>aiohttp</b></summary>
+<br>
 
-> **Versions:** [`20230125.4`](#202301254)
+<details>
+<summary>🏷️ <b>Version:</b> <code>3.9.0+ppc64le1</code></summary>
+
+> 👉 [**Jump to `aiohttp 3.9.0+ppc64le1` Card**](#390ppc64le1)
 
 </details>
 
 <details>
-<summary>📦 <b>aiohttp</b></summary>
+<summary>🏷️ <b>Version:</b> <code>3.9.5</code></summary>
 
-> **Versions:** [`3.9.0+ppc64le1`](#390ppc64le1) &nbsp;•&nbsp; [`3.9.5`](#395) &nbsp;•&nbsp; [`3.10.11`](#31011)
+> 👉 [**Jump to `aiohttp 3.9.5` Card**](#395)
+
+</details>
 
 </details>
 
 <details>
 <summary>📦 <b>ansible-core</b></summary>
-
-> **Versions:** [`2.18.6`](#2186) &nbsp;•&nbsp; [`2.18.6+ppc64le1`](#2186ppc64le1)
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📁 B</b></summary>
 <br>
 
 <details>
-<summary>📦 <b>bcrypt</b></summary>
+<summary>🏷️ <b>Version:</b> <code>2.18.6</code></summary>
 
-> **Versions:** [`4.1.2`](#412) &nbsp;•&nbsp; [`4.2.0`](#420)
+> 👉 [**Jump to `ansible-core 2.18.6` Card**](#2186)
+
+</details>
 
 </details>
 
